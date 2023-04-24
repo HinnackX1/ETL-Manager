@@ -1,7 +1,23 @@
 {
     "ProcessName": "JSONFile", 
-    "Source": "SQL", 
-    "Mapping": "Mapping", 
-    "Target": "REST"
-
+    "Source": [
+        {
+            "SourceName": "MS SQL DB",
+            "SourceType": "SQL"
+        }
+    ], 
+    "Mapping": [
+        {
+            "MappingName": "Mapping"
+        }, 
+        {
+            "MappingName": "Mapping2"
+        }
+    ], 
+    "Target": [
+        {
+            "TargetName": "Target",
+            "TargetType": "REST"
+        }
+    ]
 }
