@@ -1,0 +1,7 @@
+{
+    "ProcessName": "JSONFile", 
+    "Source": "SQL", 
+    "Mapping": "Mapping", 
+    "Target": "REST"
+
+}

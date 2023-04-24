@@ -1,0 +1,15 @@
+D:\source\ETL-Manager\bin\Debug\net6.0\ETL-Manager.exe
+D:\source\ETL-Manager\bin\Debug\net6.0\ETL-Manager.deps.json
+D:\source\ETL-Manager\bin\Debug\net6.0\ETL-Manager.runtimeconfig.json
+D:\source\ETL-Manager\bin\Debug\net6.0\ETL-Manager.dll
+D:\source\ETL-Manager\bin\Debug\net6.0\ETL-Manager.pdb
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.csproj.AssemblyReference.cache
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.AssemblyInfoInputs.cache
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.AssemblyInfo.cs
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.csproj.CoreCompileInputs.cache
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.dll
+D:\source\ETL-Manager\obj\Debug\net6.0\refint\ETL-Manager.dll
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.pdb
+D:\source\ETL-Manager\obj\Debug\net6.0\ETL-Manager.genruntimeconfig.cache
+D:\source\ETL-Manager\obj\Debug\net6.0\ref\ETL-Manager.dll
