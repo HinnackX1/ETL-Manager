@@ -2,11 +2,10 @@ using System.Text.Json;
 
 class ETLLoader
 {
-
+    public ParserFileMain? parserFileData;
     public ETLLoader(string FilePath)
     {
         LoadParserFile(FilePath);
-
     }
 
     private void LoadParserFile(string parserFile)
@@ -14,7 +13,7 @@ class ETLLoader
         try
         {
             string? jsonText = File.ReadAllText(parserFile);
-            ParserFileMain? parserFileData = JsonSerializer.Deserialize<ParserFileMain>(jsonText)!;
+            parserFileData = JsonSerializer.Deserialize<ParserFileMain>(jsonText)!;
         }
         catch (ArgumentException e)
         {

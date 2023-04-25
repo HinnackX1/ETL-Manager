@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrZ/Wtat6RI3ZWr8n5Vkjyrm+rxruxjuMVNtBlkhRq1tsYnxvDQSUOiR4P4X/l6RhX3kAlOMBymnGn39/iwhsQ==",
+  "dgSpecHash": "cCKKY+yikKRtvWYecr8m1xZPZfViXQ2Bx66DP2QuwoAPeOhu5IENV2sgGxvFm2AJQGTwgLtWwnRJO9XykaHg6w==",
   "success": true,
-  "projectFilePath": "D:\\source\\ETL-Manager\\ETL-Manager.csproj",
+  "projectFilePath": "C:\\Temp\\ETLManager\\ETL-Manager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

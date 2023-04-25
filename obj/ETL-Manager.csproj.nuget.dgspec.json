@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\ETL-Manager\\ETL-Manager.csproj": {}
+    "C:\\Temp\\ETLManager\\ETL-Manager.csproj": {}
   },
   "projects": {
-    "D:\\source\\ETL-Manager\\ETL-Manager.csproj": {
+    "C:\\Temp\\ETLManager\\ETL-Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\ETL-Manager\\ETL-Manager.csproj",
+        "projectUniqueName": "C:\\Temp\\ETLManager\\ETL-Manager.csproj",
         "projectName": "ETL-Manager",
-        "projectPath": "D:\\source\\ETL-Manager\\ETL-Manager.csproj",
-        "packagesPath": "C:\\Users\\hendr\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\ETL-Manager\\obj\\",
+        "projectPath": "C:\\Temp\\ETLManager\\ETL-Manager.csproj",
+        "packagesPath": "C:\\Users\\hendrik.malzahn\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\ETLManager\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hendr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hendrik.malzahn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
